@@ -6,7 +6,7 @@ export PATH
 #	System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+
 #	Description: Install the ShadowsocksR mudbjson server
 #	Version: 1.0.25
-#	Author: Toyo. Ache1123 backup
+#	Author: Toyo
 #	Blog: https://doub.io/ss-jc60/
 #=================================================
 
