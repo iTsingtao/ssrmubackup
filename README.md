@@ -1,4 +1,4 @@
-# ssrmubackup
+# ssrmubackup with BBR(able to use independently!)
 # 仅个人备份使用，以应对可能出现的原作者（逗比根据地博主）受不可抗力删除项目的情况。
 
 # Debian 7 x64 required (linux)
